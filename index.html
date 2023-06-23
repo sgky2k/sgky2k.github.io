@@ -7,17 +7,36 @@
   <link href="https://fonts.googleapis.com/css2?family=Product+Sans&display=swap" rel="stylesheet">
 </head>
 <body>
+   <style>
+        .earworm h2 {
+          font-size: 1.0rem; /* Adjust the font size as per your preference */
+        }
+      </style>
     <header>
         <h1>The rambles of a Perplexed Nihilist</h1>
         <div class="intro">
-          <p>Hello, I'm known by the name of Gokulakannan S! Welcome to my blog where I share my thoughts and experiences, and rants.</p>
+          <p>Hello, I'm known by the name of Gokulakannan S! Welcome to my blog where I share my thoughts, experiences, and rants.</p>
           <div class="social-handles">
             <a href="https://twitter.com/Rrreee89149425" target="_blank" rel="noopener noreferrer"><img src="twitter-icon50px.png" alt="Twitter"></a>
             <a href="https://www.instagram.com/gokuls_y2k/" target="_blank" rel="noopener noreferrer"><img src="instagram-icon50px.png" alt="Instagram"></a>
             <a href="https://www.linkedin.com/in/gokulakannan-s-156aa7216/" target="_blank" rel="noopener noreferrer"><img src="linkedin-icon50px.png" alt="LinkedIn"></a>
           </div>
+          <div class="earworm">
+            <h2>My Recent Earworm 🎶</h2>
+            <audio id="audio-player" controls>
+              <source src="Itni Si Hasi Itni Si Khushi_Barfi.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
         </div>
       </header>
+      
+      <script>
+        window.addEventListener('DOMContentLoaded', () => {
+          const audioPlayer = document.getElementById('audio-player');
+          audioPlayer.currentTime = 42; // Set the initial playback position to 30 seconds
+        });
+      </script>
 
   <main>
     <div id="blog-posts"></div>
