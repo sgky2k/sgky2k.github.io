@@ -7,16 +7,18 @@ posts.push(
     {
       title: 'Henlo',
       content: 'This place is a temporary stash of all the rants and rambles I\'ll be posting on the sub',
+      date: 'June 23, 2023',
     },
     {
       title: 'The looks',
       content: 'The site will use the same theme as the sub, but I\'ll be adding a few more things to make it look better',
+      date: 'June 23, 2023',
     },
     {
       title: 'Minimalism',
       content: 'This page only uses three files for the entirity of the site, the HTML, CSS and JS file.',
+      date: 'June 23, 2023',
     },
-   
   );
 
 // Function to display blog posts
