@@ -33,6 +33,7 @@ function displayPosts(page) {
       blogPost.innerHTML = `
         <h2>${post.title}</h2>
         <p>${post.content}</p>
+        <span class="date">${post.date}</span>
       `;
       blogPostsContainer.appendChild(blogPost);
     }
