@@ -1,0 +1,10 @@
+[
+  {
+    "title": "My First Blog Post",
+    "filename": "./post1.md"
+  },
+  {
+    "title": "My Second Blog Post",
+    "filename": "./post2.md"
+  }
+]
