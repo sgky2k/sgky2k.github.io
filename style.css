@@ -48,3 +48,14 @@ main {
   background-color: #333;
   color: #fff;
 }
+
+/* Rest of your existing CSS styles */
+
+.social-handles {
+    margin-top: 15px;
+  }
+  
+  .social-handles a {
+    margin-right: 15px;
+  }
+  
