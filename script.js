@@ -4,27 +4,29 @@ let posts = [];
 
 // Add your blog posts here
 posts.push(
-    {
+    
     {
       title: 'fake poilteness/professionalism',
       content: '
-	Gettin tired of all this fake communication crap, ya know? People around us, even ourselves, sometimes actin all fake. But today, wanna talk 'bout the importance of keepin' it real in our convos.
+	Gettin tired of all this fake communication crap, ya know? People around us, even ourselves, sometimes actin all fake. But today, wanna talk 'bout the importance of keepin it real in our convos.
 
-	When all pumped talkin 'bout stuff I'm passionate 'bout, like Linux, I do pretty well in presentations. But gotta admit, when it's somethin' I don't care much 'bout, like those digital marketing classes, I struggle a bit.
+When all pumped talkin 'bout stuff I passionate 'bout, like Linux, I do pretty well in presentations. But gotta admit, when its somethin I don't care much 'bout, like those digital marketing classes, I struggle a bit.
 
-	True communication ain't 'bout puttin' on a big show for others. It's 'bout expressin' your real thoughts and feelings, even if others don't fully get it. Nature gave us the gift to communicate honestly, and we should embrace that, ya know?
+True communication ain't 'bout puttin on a big show for others. It's 'bout expressin your real thoughts and feelings, even if others don't fully get it. Nature gave us the gift to communicate honestly, and we should embrace that, ya know?
 
-	It's kinda crazy how many industries push that fake stuff and try to make us act all "professional." But I ain't all in for that. I'm gonna stay true to myself, no matter what.
+It's kinda crazy how many industries push that fake stuff and try to make us act all "professional." But I ain't all in for that. I'm gonna stay true to myself, no matter what.
 
-	I've noticed that our minds can play tricks, tryin' to justify our actions and beliefs to protect us from feelin' bad. But we gotta break free from that, man. We gotta look at ourselves real and not be too biased 'cause of some mental trickery.
+Ive noticed that our minds can play tricks, tryin to justify our actions and beliefs to protect us from feelin bad. But we gotta break free from that, man. We gotta look at ourselves real and not be too biased cause of some mental trickery.
 
-	Some people change quite a bit after those communication training sessions, losin touch with who they really are. But I ain't tryin' to be like that. I wanna stay real, stay authentic in my interactions.
+Some people change quite a bit after those communication training sessions, losin touch with who they really are. But I ain't tryin to be like that. I wanna stay real, stay authentic in my interactions.
 
-	Bein' honest ain't always a cakewalk, especially when it don't jive with society's rules, like in those corporate gigs. But ya know what? I ain't gonna sacrifice my true self for anyone's comfort.
+Bein honest ain't always a cakewalk, especially when it don't jive with society's rules, like in those corporate gigs. But ya know what? I ain't gonna sacrifice my true self for anyone's comfort.
 
-	Just a bit tired of all this fakeness, be it in college, work, or even on YouTube. Wanna surround myself with legit people, build real connections based on honesty and respect.
+Just a bit tired of all this fakeness, be it in college, work, or even on YouTube. Wanna surround myself with legit people, build real connections based on honesty and respect.
 
-	So, movin' forward, gonna keep it real and stay true to myself, even if it means bein' a little rude or dealin' with some discomfort. 'Cause real talk, genuine communication is crucial for personal growth and buildin' real bonds.',
+So, movin forward, gonna keep it real and stay true to myself, even if it means bein a little rude or dealin with some discomfort. Cause real talk, genuine communication is crucial for personal growth and buildin real bonds.
+	
+	',
       date: 'June 23, 2023',
     },
     {
