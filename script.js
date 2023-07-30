@@ -40,7 +40,7 @@ posts.push(
     {
       title: 'Henlo',
       content: 'This place is a temporary stash of all the rants and rambles I\'ll be posting on the sub',
-      date: 'June 23, 2023',
+      date: 'July 30, 2023',
     },
     
     
